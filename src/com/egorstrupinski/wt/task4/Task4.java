@@ -5,7 +5,6 @@ import java.util.Scanner;
 import static java.lang.Math.sqrt;
 
 public class Task4 {
-    private static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
         calculate(new int[] {1,2,3,4,5,6,7,8,9});

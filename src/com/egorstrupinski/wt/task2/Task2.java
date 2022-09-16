@@ -5,10 +5,8 @@ import java.util.Scanner;
 import static java.lang.Math.abs;
 
 public class Task2 {
-    private static Scanner sc = new Scanner(System.in);
-
     public static void main(String[] args) {
-        System.out.println(calculate(getX(), getY()));
+        System.out.println(calculate(2, 4));
     }
 
     private static boolean calculate(double x, double y) {
@@ -24,17 +22,5 @@ public class Task2 {
             }
         }
         return false;
-    }
-
-    private static double getX() {
-        System.out.print("Введите x: ");
-        double x = Double.parseDouble(sc.nextLine());
-        return (x);
-    }
-
-    private static double getY() {
-        System.out.print("Введите y: ");
-        double y = Double.parseDouble(sc.nextLine());
-        return (y);
     }
 }
