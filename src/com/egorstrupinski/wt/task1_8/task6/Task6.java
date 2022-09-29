@@ -1,4 +1,4 @@
-package com.egorstrupinski.wt.task6;
+package com.egorstrupinski.wt.task1_8.task6;
 
 public class Task6 {
     public void calculate(int[] arr) {

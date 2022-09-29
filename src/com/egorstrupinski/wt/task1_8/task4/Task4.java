@@ -1,4 +1,4 @@
-package com.egorstrupinski.wt.task4;
+package com.egorstrupinski.wt.task1_8.task4;
 
 import static java.lang.Math.sqrt;
 

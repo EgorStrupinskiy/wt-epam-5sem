@@ -1,4 +1,4 @@
-package com.egorstrupinski.wt.task1;
+package com.egorstrupinski.wt.task1_8.task1;
 
 import static java.lang.Math.abs;
 import static java.lang.Math.sin;

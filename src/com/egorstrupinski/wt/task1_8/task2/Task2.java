@@ -1,4 +1,4 @@
-package com.egorstrupinski.wt.task2;
+package com.egorstrupinski.wt.task1_8.task2;
 
 import static java.lang.Math.abs;
 

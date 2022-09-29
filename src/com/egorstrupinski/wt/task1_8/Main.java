@@ -1,12 +1,13 @@
-package com.egorstrupinski.wt;
+package com.egorstrupinski.wt.task1_8;
 
-import com.egorstrupinski.wt.task1.Task1;
-import com.egorstrupinski.wt.task2.Task2;
-import com.egorstrupinski.wt.task3.Task3;
-import com.egorstrupinski.wt.task4.Task4;
-import com.egorstrupinski.wt.task5.Task5;
-import com.egorstrupinski.wt.task6.Task6;
-import com.egorstrupinski.wt.task7.Task7;
+import com.egorstrupinski.wt.task1_8.task1.Task1;
+import com.egorstrupinski.wt.task1_8.task2.Task2;
+import com.egorstrupinski.wt.task1_8.task3.Task3;
+import com.egorstrupinski.wt.task1_8.task4.Task4;
+import com.egorstrupinski.wt.task1_8.task5.Task5;
+import com.egorstrupinski.wt.task1_8.task6.Task6;
+import com.egorstrupinski.wt.task1_8.task7.Task7;
+import com.egorstrupinski.wt.task1_8.task8.Task8;
 
 public class Main {
     public static void main(String[] args) {
@@ -32,7 +33,7 @@ public class Main {
 
         Task5 task5 = new Task5();
         System.out.println("Task 5:");
-        System.out.println(task5.calculate(new int[]{4, 7, 1, 6, 9, 4, 10}));
+        System.out.println(task5.calculate(new int[]{1, 2 , 3, 10, 4, 5, 6}));
         System.out.println();
 
         Task6 task6 = new Task6();
@@ -43,6 +44,11 @@ public class Main {
         Task7 task7 = new Task7();
         System.out.println("Task 7:");
         task7.calculate(new int[] {6, 5, 4, 3, 2, 1});
+        System.out.println();
+
+        Task8 task8 = new Task8();
+        System.out.println("Task 8:");
+        task8.calculate(new int[] {1, 2, 3, 4, 8, 10}, new int[] {3, 5, 9, 14});
         System.out.println();
 
 
