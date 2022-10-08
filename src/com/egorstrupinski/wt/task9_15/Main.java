@@ -1,5 +1,7 @@
 package com.egorstrupinski.wt.task9_15;
 
+import java.util.Comparator;
+
 public class Main {
     public static void main(String[] args) {
         Basket basket = new Basket();
@@ -10,5 +12,15 @@ public class Main {
 
         System.out.println(basket.findWeight());
         System.out.println(basket.findBlueBallsAmount());
+
+
+
+        //Task 15
+        Comparator<Book> comparator = new Book.BookTitleComparator();
+        Comparator<Book> comparator2 = new Book.BookTitleComparator().thenComparing(new Book.BookAuthorComparator());
+        Comparator<Book> comparator3 = new Book.BookAuthorComparator().thenComparing(new Book.BookTitleComparator());
+        Comparator<Book> comparator4 = new Book.BookAuthorComparator().thenComparing(new Book.BookTitleComparator()).thenComparing(new Book.BookPriceComparator());
+
+
     }
 }

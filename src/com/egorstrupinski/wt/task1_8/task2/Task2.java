@@ -1,7 +1,7 @@
 package com.egorstrupinski.wt.task1_8.task2;
 
 import static java.lang.Math.abs;
-
+import org.junit.*;
 public class Task2 {
     public boolean calculate(double x, double y) {
         if ((y > 5) || (y < -3)) {

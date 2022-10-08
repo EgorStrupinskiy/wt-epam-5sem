@@ -22,23 +22,16 @@ public class Basket {
         this.ballsInside.add(ball);
     }
 
-    public int findWeight() {
+    public long findWeight() {
         int weight = 0;
-        for (Ball ball : ballsInside
-        ) {
-            weight += ball.getWeight();
-        }
-        return weight;
+        return ballsInside.stream().reduce(
+                0,
+                (x, y) -> x + y.getWeight(),
+                Integer::sum
+        );
     }
 
-    public int findBlueBallsAmount(){
-        int amount = 0;
-        for (Ball ball : ballsInside
-        ) {
-            if (ball.getColor() == "blue") {
-                amount++;
-            }
-        }
-        return amount;
+    public long findBlueBallsAmount() {
+        return ballsInside.stream().filter((ball) -> ball.getColor().equals("blue")).count();
     }
 }

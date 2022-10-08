@@ -9,23 +9,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df6eec96-3b48-4b04-92cb-3f344396d819" name="Changes" comment="7 tasks completed">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lab1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task8/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Main.java" afterDir="false" />
+    <list default="true" id="df6eec96-3b48-4b04-92cb-3f344396d819" name="Changes" comment="11 tasks completed">
+      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task2/Task2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task8/Task8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/ProgrammerBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task5/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task5/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task6/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task6/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task7/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task7/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task8/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task1_8/task8/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/egorstrupinski/wt/task9_15/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -54,21 +50,37 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.egorstrupinski.wt.task9_15.Main">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.egorstrupinski.wt.task1_8.task2" />
+      <recent name="com.egorstrupinski.wt.task9_15" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.Main" />
       <module name="lab1" />
@@ -82,8 +94,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.egorstrupinski.wt.task1_8.task1.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.task1.Task1" />
+    <configuration name="Task1.testAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <extension name="coverage">
         <pattern>
@@ -91,55 +102,67 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.egorstrupinski.wt.task1_8.task1" />
+      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.task1.Task1" />
+      <option name="METHOD_NAME" value="testAnswer" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.egorstrupinski.wt.task1_8.task4.Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.task4.Task4" />
+    <configuration name="Task2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.egorstrupinski.wt.task1_8.task4.*" />
+          <option name="PATTERN" value="com.egorstrupinski.wt.task1_8.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.egorstrupinski.wt.task1_8.task2" />
+      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.task2.Task2Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.egorstrupinski.wt.task1_8.task5.Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.task5.Task5" />
+    <configuration name="Task8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.egorstrupinski.wt.task1_8.task5.*" />
+          <option name="PATTERN" value="com.egorstrupinski.wt.task1_8.task8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.egorstrupinski.wt.task1_8.task8" />
+      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.task8.Task8Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.egorstrupinski.wt.task9_15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task9_15.Main" />
+    <configuration name="Task8Test.compare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.egorstrupinski.wt.task9_15.*" />
+          <option name="PATTERN" value="com.egorstrupinski.wt.task1_8.task8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.egorstrupinski.wt.task1_8.task8" />
+      <option name="MAIN_CLASS_NAME" value="com.egorstrupinski.wt.task1_8.task8.Task8Test" />
+      <option name="METHOD_NAME" value="compare" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.egorstrupinski.wt.task9_15.Main" />
-        <item itemvalue="Application.com.egorstrupinski.wt.task1_8.task5.Task5" />
-        <item itemvalue="Application.com.egorstrupinski.wt.task1_8.task1.Task1" />
-        <item itemvalue="Application.com.egorstrupinski.wt.task1_8.task4.Task4" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Task8Test" />
+        <item itemvalue="JUnit.Task8Test.compare" />
+        <item itemvalue="JUnit.Task2Test" />
+        <item itemvalue="JUnit.Task1.testAnswer" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +177,13 @@
       <workItem from="1663309208366" duration="17940000" />
       <workItem from="1663665115793" duration="49000" />
       <workItem from="1663845136640" duration="2743000" />
-      <workItem from="1664443414080" duration="619000" />
+      <workItem from="1664443414080" duration="7561000" />
+      <workItem from="1664960602312" duration="128000" />
+      <workItem from="1664975059815" duration="294000" />
+      <workItem from="1664976181728" duration="158000" />
+      <workItem from="1664977212381" duration="2108000" />
+      <workItem from="1665163565473" duration="5978000" />
+      <workItem from="1665213269274" duration="2117000" />
     </task>
     <task id="LOCAL-00001" summary="4 tasks made">
       <created>1663314283561</created>
@@ -177,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663318825361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11 tasks completed">
+      <created>1664445428745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664445428745</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +234,7 @@
     <MESSAGE value="4 tasks made" />
     <MESSAGE value="input methods deleted" />
     <MESSAGE value="7 tasks completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 tasks completed" />
+    <MESSAGE value="11 tasks completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 tasks completed" />
   </component>
 </project>
